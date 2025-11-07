@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning Java Backend and exploring microservices architecture.
 
-🗄️ I’m researching the HugeGraph graph database, focusing on its architecture, authentication, and graph space features.
+🗄️ I’m passionate about Computer Science, especially backend development and system design.
 
 🤖 I’m also diving into AI gateways, and learning about MCP and AI agents to enhance intelligent development workflows.
 
