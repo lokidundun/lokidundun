@@ -7,8 +7,6 @@
 
 #### AI & Full-Stack Developer
 
-📖 I’m currently a third-year student at Guangdong University of Technology.
-
 🌱 I’m currently learning Java Backend and exploring microservices architecture.
 
 🗄️ I’m researching the HugeGraph graph database, focusing on its architecture, authentication, and graph space features.
